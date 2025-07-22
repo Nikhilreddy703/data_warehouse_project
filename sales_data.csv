@@ -1,0 +1,5 @@
+sale_id,product,quantity,price,customer_name,sale_date
+1,Apple,3,0.5,John Doe,2024-01-02
+2,Banana,2,0.3,Jane Smith,2024-01-03
+3,Apple,1,0.5,Alice Brown,2024-01-04
+4,Orange,5,0.4,Bob White,2024-01-05
